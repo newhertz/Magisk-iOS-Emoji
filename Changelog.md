@@ -1,5 +1,8 @@
 
 ## Changelog
+v26.4
+- Added 26.4 Emojis ([Unicode 17.0](https://emojipedia.org/unicode-17.0)) Thanks to [mistu01/MEEMEmoji](https://github.com/mistu01/MEEMEmoji) for the source.
+
 v18.4.1
 - Fixed Messenger occasionally reverting to default emojis
 - Fixed a bug in service.sh that failed to properly disable the GMS font provider for all Google apps, preventing some apps from using the iOS emoji font
